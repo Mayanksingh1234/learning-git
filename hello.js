@@ -9,3 +9,5 @@ function hello(){
 }
 
 hello()
+console.log("hello from git");
+

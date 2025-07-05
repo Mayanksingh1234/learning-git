@@ -15,3 +15,4 @@ let file={
     },
 }
 file.fun()
+console.log("hello from heaven");
